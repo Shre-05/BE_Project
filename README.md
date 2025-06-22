@@ -10,8 +10,7 @@
 2. [Tech Stack](#-tech-stack)  
 3. [Team Roles & Tasks](#-team-roles--tasks)  
 4. [Development Workflow](#-development-workflow)  
-5. [Milestones](#-milestones)  
-6. [FAQ](#-faq)  
+
 
 ---
 
